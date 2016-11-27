@@ -1,5 +1,6 @@
 import Shapes.Square;
 import Shapes.Rectangle;
+import Utils.Math;
 
 public class Driver {
 
@@ -20,4 +21,3 @@ public class Driver {
 		System.out.println(Math.factorialLoop((int)N));
         }
     }
-}
